@@ -1,0 +1,10 @@
+[
+  {
+    "repository": "android_device_samsung_j5-common",
+    "target_path": "device/samsung/j5-common"
+  },
+  {
+    "repository": "android_vendor_samsung_j5ltexx",
+    "target_path": "vendor/samsung/j5ltexx"
+  }
+]

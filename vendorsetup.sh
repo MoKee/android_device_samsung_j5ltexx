@@ -1,1 +1,1 @@
-add_lunch_combo aokp_j5ltexx-userdebug
+add_lunch_combo mk_j5ltexx-userdebug
