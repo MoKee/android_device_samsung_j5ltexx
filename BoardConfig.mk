@@ -51,7 +51,7 @@ TARGET_USERIMAGES_USE_EXT4 := true
 TARGET_OTA_ASSERT_DEVICE := j5lte,j5lteub,j5ltedx
 
 # Kernel
-TARGET_KERNEL_CONFIG := lineageos_j5nlte_defconfig
+TARGET_KERNEL_CONFIG := mokee_j5nlte_defconfig
 TARGET_KERNEL_SOURCE := kernel/samsung/j5lte
 
 # Vendor Init
